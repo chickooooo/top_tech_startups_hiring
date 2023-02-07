@@ -30,10 +30,10 @@ That being said, the jobs listed in the dataset are real, and if interested, you
 
 <br>
 
-`images/`: &emsp; images of company logo
-`json_schema.txt`: &emsp; schema for json dataset
-`csv_schema.txt`: &emsp; schema for csv dataset
-`data_dictionary.txt`: &emsp; data dictionary for the dataset
-`json_data.json`: &emsp; json dataset
-`csv_data.csv`: &emsp; csv dataset
-`README.md`: &emsp; readme file
+`images/`: &emsp; images of company logo<br>
+`json_schema.txt`: &emsp; schema for json dataset<br>
+`csv_schema.txt`: &emsp; schema for csv dataset<br>
+`data_dictionary.txt`: &emsp; data dictionary for the dataset<br>
+`json_data.json`: &emsp; json dataset<br>
+`csv_data.csv`: &emsp; csv dataset<br>
+`README.md`: &emsp; readme file<br>
